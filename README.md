@@ -25,11 +25,11 @@ Se utilizaron los siguientes recursos del lenguaje JavaScript:
   - Sintaxis en camelCase
   - Código indentado y legible
 
-## ⚠️ Importante
+## Importante sobre la consigna
 
 Este proyecto **no utiliza el DOM** ni eventos visuales. Está pensado para ejecutarse en el navegador usando alertas y prompts.
 
-## �� Cómo ejecutarlo
+## Detalle de cómo ejecutarlo
 
 1. Cloná o descargá este repositorio.
 2. Abrí el archivo `index.html` en tu navegador.
